@@ -1,5 +1,5 @@
 # ProgrammingForDS-FinalProject
-- Programing for Data Science Final project.
+- Programming for Data Science Final project.
 - Topic: Analyze the fatalities in the Israel-Palestine war.
 - Dataset: https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian?resource=download
 ## Group: HKK
